@@ -1,6 +1,6 @@
 # MS XP Paint
 
-Try out the [Demo of MS XP Paint](https://oinam.github/io/ms-xp-paint/)
+Try out the [Demo of MS XP Paint](https://oinam.github.io/ms-xp-paint/)
 
 _**Note: This is a fan project based on my nostalgia for the amazing Windows XP OS, but is in no way affiliated with Microsoft**_
 
@@ -31,4 +31,4 @@ Credits to [Isaiah Odhner](https://isaiahodhner.ml/) and contributors for creati
 
 # Contributing
 
-This fork is for our personal experiment and fun. Please contribute to the original source at (github.com/chowderman/xp-paint)[https://github.com/chowderman/xp-paint].
+This fork is for our personal experiment and fun. Please contribute to the original source at [github.com/chowderman/xp-paint](https://github.com/chowderman/xp-paint).
