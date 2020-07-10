@@ -42,7 +42,7 @@ globby.sync(path.join(tempBuildDir, "**")).forEach(filePath => {
 
 // Running monolith to create a single html file
 let indexHtmlFilePath = path.join(tempBuildDir, "index.html");
-let xpPaintHtmlOutputPath = path.join(__dirname, "xp-paint.html");
+let xpPaintHtmlOutputPath = path.join(__dirname, "index.html");
 let proc = child_process.execSync(`monolith "${indexHtmlFilePath}" > "${xpPaintHtmlOutputPath}"`);
 
 // Running the html minifier
