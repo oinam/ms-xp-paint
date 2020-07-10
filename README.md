@@ -1,6 +1,8 @@
 # Microsoft XP Paint
 
-Try out the [Demo of Microsoft XP Paint](https://paint.oinam.com/)
+### Try the [Demo of Microsoft XP Paint](https://paint.oinam.com/)
+
+---
 
 _**Note: This is a fan project based on my nostalgia for the amazing Windows XP OS, but is in no way affiliated with Microsoft**_
 
